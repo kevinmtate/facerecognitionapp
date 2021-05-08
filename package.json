@@ -7,7 +7,7 @@
     "axios": "^0.19.2",
     "clarifai": "^2.9.0",
     "cors": "^2.8.5",
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.7",
     "minimist": "^1.2.5",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
